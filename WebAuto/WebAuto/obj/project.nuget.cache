@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "cWfJawIOXsDm2QkoVbO0hnIBz7Svkhkpi12Jp+a68k4DpoTHo0GlKsobavKbIoF5QtXTDTxrxg6fH+If+e4CEg==",
+  "success": true,
+  "projectFilePath": "D:\\Playwright_Moolya\\WebAuto\\WebAuto\\WebAuto.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mwang\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\6.0.0\\microsoft.bcl.asyncinterfaces.6.0.0.nupkg.sha512",
+    "C:\\Users\\mwang\\.nuget\\packages\\microsoft.playwright\\1.39.0\\microsoft.playwright.1.39.0.nupkg.sha512",
+    "C:\\Users\\mwang\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512",
+    "C:\\Users\\mwang\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512",
+    "C:\\Users\\mwang\\.nuget\\packages\\system.text.encodings.web\\6.0.0\\system.text.encodings.web.6.0.0.nupkg.sha512",
+    "C:\\Users\\mwang\\.nuget\\packages\\system.text.json\\6.0.0\\system.text.json.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
